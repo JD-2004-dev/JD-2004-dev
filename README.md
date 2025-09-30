@@ -1,6 +1,6 @@
 ## Hi there I'm Jaheim👋
 
-🏫 I am a Computer Science student at York University </br>
+🏫 I am a Computer Science student at York University, Toronto, ON, Canada </br>
 👨‍💻 I create applications for fun and to stay consistent</br>
 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/jaheim-daniels/)
 
