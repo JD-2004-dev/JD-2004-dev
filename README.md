@@ -1,6 +1,6 @@
-## Hi there I'm Jaheim👋
+## Hi there I'm Jaheim Daniels👋
 
-🏫 I am a Computer Science student at York University, Toronto, ON, Canada </br>
+🏫 I am a Computer Science student at York University, Toronto, ON, Canada, with a passion for cloud computing and software development.</br>
 👨‍💻 I create applications for fun and to stay consistent</br>
 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/jaheim-daniels/)
 
